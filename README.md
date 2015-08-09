@@ -1,2 +1,2 @@
 # dotfiles
-Collection of my dotfiles and global configs..
+Collection of my dotfiles and global configs.
