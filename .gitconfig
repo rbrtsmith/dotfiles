@@ -1,12 +1,12 @@
 [user]
-	name = Robert Smith
+    name = Robert Smith
 	email = rbrtsmith84@googlemail.com
 [color]
     diff = auto
     status = auto
     branch = auto
     interactive = auto
-	ui = true
+    ui = true
     pager = true
 [color "status"]
     added = green
@@ -23,7 +23,7 @@
     co = checkout
     df = diff
     s = status -s
-	  lg = log --oneline --decorate --all --graph
+    lg = log --oneline --decorate --all --graph
     # James Brown version control!
     up = push
     down = pull
